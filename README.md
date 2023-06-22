@@ -1,4 +1,4 @@
-# katt
+# KATT - Knowledge Aided Translation Tool
 
 ## Project setup
 ```
